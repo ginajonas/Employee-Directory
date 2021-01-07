@@ -45,3 +45,6 @@
   Github: [ginajonas](https://github.com/ginajonas)
 
   Email address: [ginajonas7@gmail.com}](mailto:ginajonas7@gmail.com)
+  
+  ![EmployeeDirectory](https://user-images.githubusercontent.com/68718445/103844638-3c18a100-5068-11eb-8253-a2172def3c3f.png)
+![EmployeeDirectory1](https://user-images.githubusercontent.com/68718445/103844641-3d49ce00-5068-11eb-9d43-56e8963b9607.png)
