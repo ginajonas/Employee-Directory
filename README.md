@@ -5,7 +5,8 @@
   This is an employee directory with React. It has a requirement to break up the application's UI into components, manage component state, and respond to user events. As a user, I want to be able to view my entire employee directory at once so that I have quick access to their information. 
 
   ## APP Link
-
+   
+   https://ginajonas.github.io/Employee-Directory/
  
 
   ## Table of Contents
